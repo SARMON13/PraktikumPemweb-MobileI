@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<results question="Pilih salah satu!">
+	<pollitem>
+		<entryname>NO 1. Merkutius</entryname>
+		<votes>5</votes>
+	</pollitem>
+	<pollitem>
+		<entryname>No 2. Bumi</entryname>
+		<votes>4</votes>
+	</pollitem>
+	<pollitem>
+		<entryname>No 3. Neptunus</entryname>
+		<votes>3</votes>
+	</pollitem>
+	<pollitem>
+		<entryname>No 4. Uranus</entryname>
+		<votes>2</votes>
+	</pollitem>
+	<pollitem>
+		<entryname>No 5. Saturnus</entryname>
+		<votes>1</votes>
+	</pollitem>
+</results>
